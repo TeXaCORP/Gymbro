@@ -11,13 +11,3 @@ Firstly I have created a Module "PoseModule.py", this file contains the code whi
     findPose() - This function detect Pose and show landmarks of your hand and it return image in RGB.
     getPosition() - This function finds the position of particular landmark of your Pose and it returns a list containing id_of_that_landmark, x_position_of_that_landmark, y_position_of_that_landmark.
 
-# 👀 About Me
-Full name : Abbas Ataei
-
-Learning : Python
-
-Gmail : AbbasAtaei.py@gmail.com
-
-Telegram : https://t.me/Abbasataei_py
-
-More : https://bioly.io/AbbasAtaei
